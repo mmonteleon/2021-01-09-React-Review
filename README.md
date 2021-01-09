@@ -4,7 +4,7 @@ I missed the last two sessions and needed to restart and review React.  I am goi
 
 
 # Lab Folders
-
- - furbook
- - dollar pizza
+ - am: budget-buddy
+ - pm: furbook
+ - pm: dollar pizza
 
